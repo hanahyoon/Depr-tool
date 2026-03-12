@@ -1,1 +1,976 @@
-{"lastUpdated":"","simData":[],"changelog":[]}
+{
+  "lastUpdated": "2026-03-12",
+  "simData": [
+    {
+      "asset": "100011",
+      "acct": "160030",
+      "cc": "70701610",
+      "name": "W/H floor tile replacement",
+      "capDate": "2025-01-01",
+      "monthly": 249242,
+      "retireDate": null
+    },
+    {
+      "asset": "100012",
+      "acct": "160030",
+      "cc": "70705000",
+      "name": "Ductwork & Control Upgrade_Main office",
+      "capDate": "2025-03-01",
+      "monthly": 70208,
+      "retireDate": null
+    },
+    {
+      "asset": "100013",
+      "acct": "160030",
+      "cc": "70701610",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 13542,
+      "retireDate": null
+    },
+    {
+      "asset": "100014",
+      "acct": "160030",
+      "cc": "70703000",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 17708,
+      "retireDate": null
+    },
+    {
+      "asset": "100015",
+      "acct": "160030",
+      "cc": "70704000",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 46875,
+      "retireDate": null
+    },
+    {
+      "asset": "100016",
+      "acct": "160030",
+      "cc": "70704610",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 8333,
+      "retireDate": null
+    },
+    {
+      "asset": "100017",
+      "acct": "160030",
+      "cc": "70704630",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 13542,
+      "retireDate": null
+    },
+    {
+      "asset": "100018",
+      "acct": "160030",
+      "cc": "70705000",
+      "name": "Office furniture replacement",
+      "capDate": "2026-02-01",
+      "monthly": 4167,
+      "retireDate": null
+    },
+    {
+      "asset": "200118",
+      "acct": "160023",
+      "cc": "70701610",
+      "name": "Refrigerator -W/H_7B",
+      "capDate": "2022-05-01",
+      "monthly": 163750,
+      "retireDate": null
+    },
+    {
+      "asset": "200119",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Centrifuge MiniSpin-01",
+      "capDate": "2022-12-01",
+      "monthly": 29354,
+      "retireDate": null
+    },
+    {
+      "asset": "200120",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Centrifuge MiniSpin-02",
+      "capDate": "2022-12-01",
+      "monthly": 29354,
+      "retireDate": null
+    },
+    {
+      "asset": "200121",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Centrifuge MiniSpin-03",
+      "capDate": "2022-12-01",
+      "monthly": 29354,
+      "retireDate": null
+    },
+    {
+      "asset": "200122",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Application_Webex room kit",
+      "capDate": "2023-02-01",
+      "monthly": 411000,
+      "retireDate": null
+    },
+    {
+      "asset": "200123",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Application_Web demo TV_LG 43UH5F",
+      "capDate": "2023-02-01",
+      "monthly": 23896,
+      "retireDate": null
+    },
+    {
+      "asset": "200124",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Application_Web demo Cable_4KX-PLUS",
+      "capDate": "2023-02-01",
+      "monthly": 25833,
+      "retireDate": null
+    },
+    {
+      "asset": "200125",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Application_Web demo Converter_U-CAM",
+      "capDate": "2023-02-01",
+      "monthly": 22479,
+      "retireDate": null
+    },
+    {
+      "asset": "200126",
+      "acct": "160025",
+      "cc": "70704630",
+      "name": "Application_Web demo stand",
+      "capDate": "2023-02-01",
+      "monthly": 47063,
+      "retireDate": null
+    },
+    {
+      "asset": "200127",
+      "acct": "160350",
+      "cc": "70704630",
+      "name": "AS8500 Maxwell RSC 48",
+      "capDate": "2023-06-01",
+      "monthly": 493056,
+      "retireDate": null
+    },
+    {
+      "asset": "200128",
+      "acct": "160350",
+      "cc": "70704630",
+      "name": "MG1000 MyGlo Reagent Reader",
+      "capDate": "2025-03-01",
+      "monthly": 153003,
+      "retireDate": null
+    },
+    {
+      "asset": "200129",
+      "acct": "160350",
+      "cc": "70704630",
+      "name": "GM4000 GloMax Galaxy",
+      "capDate": "2025-06-01",
+      "monthly": 1322491,
+      "retireDate": null
+    },
+    {
+      "asset": "200130",
+      "acct": "160350",
+      "cc": "70704630",
+      "name": "GM4010 Stagetop Incubator",
+      "capDate": "2025-06-01",
+      "monthly": 706063,
+      "retireDate": null
+    },
+    {
+      "asset": "200131",
+      "acct": "160350",
+      "cc": "70704630",
+      "name": "AS8000 Maxwell CSC 48 Instrument",
+      "capDate": "2025-09-01",
+      "monthly": 511667,
+      "retireDate": null
+    },
+    {
+      "asset": "200132",
+      "acct": "160020",
+      "cc": "70704630",
+      "name": "GM9000 QC Test Plate",
+      "capDate": "2025-07-01",
+      "monthly": 104271,
+      "retireDate": null
+    },
+    {
+      "asset": "200133",
+      "acct": "160020",
+      "cc": "70704630",
+      "name": "Special Tools for GloMax Galaxy",
+      "capDate": "2025-07-01",
+      "monthly": 203556,
+      "retireDate": null
+    },
+    {
+      "asset": "300343",
+      "acct": "160050",
+      "cc": "70701610",
+      "name": "W/H-Desk_1800x1000x800-01",
+      "capDate": "2023-04-01",
+      "monthly": 39125,
+      "retireDate": null
+    },
+    {
+      "asset": "300344",
+      "acct": "160050",
+      "cc": "70701610",
+      "name": "W/H-Desk_1800x1000x800-02",
+      "capDate": "2023-04-01",
+      "monthly": 39125,
+      "retireDate": null
+    },
+    {
+      "asset": "300345",
+      "acct": "160050",
+      "cc": "70701610",
+      "name": "W/H_air conditioner_01",
+      "capDate": "2025-01-01",
+      "monthly": 58333,
+      "retireDate": null
+    },
+    {
+      "asset": "300346",
+      "acct": "160050",
+      "cc": "70701610",
+      "name": "W/H_air conditioner_02",
+      "capDate": "2025-01-01",
+      "monthly": 58333,
+      "retireDate": null
+    },
+    {
+      "asset": "300347",
+      "acct": "160050",
+      "cc": "70701610",
+      "name": "W/H_air conditioner_03",
+      "capDate": "2025-01-01",
+      "monthly": 58333,
+      "retireDate": null
+    },
+    {
+      "asset": "300348",
+      "acct": "160050",
+      "cc": "70704630",
+      "name": "Application Lab_air conditioner_01",
+      "capDate": "2025-01-01",
+      "monthly": 47917,
+      "retireDate": null
+    },
+    {
+      "asset": "300349",
+      "acct": "160050",
+      "cc": "70704630",
+      "name": "Application Lab_air conditioner_02",
+      "capDate": "2025-01-01",
+      "monthly": 47917,
+      "retireDate": null
+    },
+    {
+      "asset": "300350",
+      "acct": "160050",
+      "cc": "70703000",
+      "name": "TV-LG standbyme2_MKT",
+      "capDate": "2025-08-01",
+      "monthly": 25431,
+      "retireDate": null
+    },
+    {
+      "asset": "300351",
+      "acct": "160050",
+      "cc": "70705000",
+      "name": "Main Office Landscaping_01",
+      "capDate": "2026-02-01",
+      "monthly": 20563,
+      "retireDate": null
+    },
+    {
+      "asset": "300352",
+      "acct": "160050",
+      "cc": "70705000",
+      "name": "Main Office Landscaping_02",
+      "capDate": "2026-02-01",
+      "monthly": 20563,
+      "retireDate": null
+    },
+    {
+      "asset": "300353",
+      "acct": "160050",
+      "cc": "70705000",
+      "name": "Main Office Landscaping_03",
+      "capDate": "2026-02-01",
+      "monthly": 20563,
+      "retireDate": null
+    },
+    {
+      "asset": "300354",
+      "acct": "160050",
+      "cc": "70705000",
+      "name": "Main Office Landscaping_04",
+      "capDate": "2026-02-01",
+      "monthly": 6625,
+      "retireDate": null
+    },
+    {
+      "asset": "300355",
+      "acct": "160050",
+      "cc": "70705000",
+      "name": "Main Office Landscaping_05",
+      "capDate": "2026-02-01",
+      "monthly": 6625,
+      "retireDate": null
+    },
+    {
+      "asset": "500010",
+      "acct": "160040",
+      "cc": "70701610",
+      "name": "Logi-Car",
+      "capDate": "2026-01-01",
+      "monthly": 143545,
+      "retireDate": null
+    },
+    {
+      "asset": "600154",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Macbook Pro 16-inch_MKT",
+      "capDate": "2022-05-01",
+      "monthly": 72614,
+      "retireDate": null
+    },
+    {
+      "asset": "600155",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_kimmikyung",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600156",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_kwonjongeun",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600157",
+      "acct": "160070",
+      "cc": "70704630",
+      "name": "Laptop_jeonhyoeun",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600158",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_yangjeongmin",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600159",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_leehyunju",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600160",
+      "acct": "160070",
+      "cc": "70704610",
+      "name": "Laptop_kwonsuhyun",
+      "capDate": "2022-06-01",
+      "monthly": 34229,
+      "retireDate": null
+    },
+    {
+      "asset": "600161",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Surface Pro_kimjunga",
+      "capDate": "2022-06-01",
+      "monthly": 46238,
+      "retireDate": null
+    },
+    {
+      "asset": "600162",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Surface Pro_Spare",
+      "capDate": "2022-06-01",
+      "monthly": 46238,
+      "retireDate": null
+    },
+    {
+      "asset": "600163",
+      "acct": "160070",
+      "cc": "70704630",
+      "name": "Laptop_Apps_leejunyong",
+      "capDate": "2022-07-01",
+      "monthly": 35904,
+      "retireDate": null
+    },
+    {
+      "asset": "600164",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_kimjunga2",
+      "capDate": "2022-07-01",
+      "monthly": 35904,
+      "retireDate": null
+    },
+    {
+      "asset": "600165",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_parksonyung",
+      "capDate": "2023-07-01",
+      "monthly": 40561,
+      "retireDate": null
+    },
+    {
+      "asset": "600166",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Laptop_Spare",
+      "capDate": "2023-07-01",
+      "monthly": 40561,
+      "retireDate": null
+    },
+    {
+      "asset": "600167",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_pyunkyunghyun",
+      "capDate": "2023-07-01",
+      "monthly": 40561,
+      "retireDate": null
+    },
+    {
+      "asset": "600168",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Surface Pro_GM",
+      "capDate": "2023-07-01",
+      "monthly": 48713,
+      "retireDate": null
+    },
+    {
+      "asset": "600170",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_kimhyungjun",
+      "capDate": "2024-02-01",
+      "monthly": 41104,
+      "retireDate": null
+    },
+    {
+      "asset": "600171",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_yunjunsung",
+      "capDate": "2024-02-01",
+      "monthly": 41104,
+      "retireDate": null
+    },
+    {
+      "asset": "600172",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_songjieun",
+      "capDate": "2024-02-01",
+      "monthly": 41104,
+      "retireDate": null
+    },
+    {
+      "asset": "600173",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_leesuyun",
+      "capDate": "2024-02-01",
+      "monthly": 41104,
+      "retireDate": null
+    },
+    {
+      "asset": "600174",
+      "acct": "160070",
+      "cc": "70703000",
+      "name": "Laptop_kwonjongeun2024",
+      "capDate": "2024-09-01",
+      "monthly": 41604,
+      "retireDate": null
+    },
+    {
+      "asset": "600175",
+      "acct": "160070",
+      "cc": "70701610",
+      "name": "Laptop_jeonguiyong",
+      "capDate": "2024-09-01",
+      "monthly": 41604,
+      "retireDate": null
+    },
+    {
+      "asset": "600176",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Server-Cisco Catalyst 9300_01",
+      "capDate": "2025-04-01",
+      "monthly": 165624,
+      "retireDate": null
+    },
+    {
+      "asset": "600177",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Server-Cisco Catalyst 9300_02",
+      "capDate": "2025-04-01",
+      "monthly": 282599,
+      "retireDate": null
+    },
+    {
+      "asset": "600178",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Server-Cisco Catalyst 9300_03",
+      "capDate": "2025-04-01",
+      "monthly": 282599,
+      "retireDate": null
+    },
+    {
+      "asset": "600179",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Server-APC AP7921B PDU",
+      "capDate": "2025-04-01",
+      "monthly": 23882,
+      "retireDate": null
+    },
+    {
+      "asset": "600180",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Server-Tripp Lite Console Server",
+      "capDate": "2025-04-01",
+      "monthly": 23044,
+      "retireDate": null
+    },
+    {
+      "asset": "600181",
+      "acct": "160070",
+      "cc": "70704630",
+      "name": "Laptop_kimsongeun",
+      "capDate": "2025-07-01",
+      "monthly": 47917,
+      "retireDate": null
+    },
+    {
+      "asset": "600182",
+      "acct": "160070",
+      "cc": "70704000",
+      "name": "Laptop_gongchangsuk",
+      "capDate": "2025-11-01",
+      "monthly": 42667,
+      "retireDate": null
+    },
+    {
+      "asset": "600183",
+      "acct": "160070",
+      "cc": "70704610",
+      "name": "Laptop_이슬기",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "retireDate": null
+    },
+    {
+      "asset": "600184",
+      "acct": "160070",
+      "cc": "70701610",
+      "name": "Laptop_정영돈",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "retireDate": null
+    },
+    {
+      "asset": "600185",
+      "acct": "160070",
+      "cc": "70705000",
+      "name": "Laptop_Spare",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "retireDate": null
+    }
+  ],
+  "changelog": [
+    {
+      "type": "new",
+      "asset": "600183",
+      "name": "Laptop_이슬기",
+      "acct": "160070",
+      "cc": "70704610",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "date": "2026-03-12"
+    },
+    {
+      "type": "new",
+      "asset": "600184",
+      "name": "Laptop_정영돈",
+      "acct": "160070",
+      "cc": "70701610",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "date": "2026-03-12"
+    },
+    {
+      "type": "new",
+      "asset": "600185",
+      "name": "Laptop_Spare",
+      "acct": "160070",
+      "cc": "70705000",
+      "capDate": "2026-03-10",
+      "monthly": 49708,
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200122",
+      "from": "Application_Webex room kit",
+      "to": "Application_Webex room kit_Codec,Camera,Control",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200128",
+      "from": "MG1000 MyGlo Reagent Reader",
+      "to": "MG1000 MyGlo™ Reagent Reader",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200129",
+      "from": "GM4000 GloMax Galaxy",
+      "to": "GM4000 GloMax® Galaxy Bioluminescence Imager Syste",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200130",
+      "from": "GM4010 Stagetop Incubator",
+      "to": "GM4010 Stagetop Incubator and Controller, GloMax®",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200131",
+      "from": "AS8000 Maxwell CSC 48 Instrument",
+      "to": "AS8000 Maxwell® CSC 48 Instrument",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "200132",
+      "from": "GM9000 QC Test Plate",
+      "to": "GM9000 QC Test Plate for GloMax Instruments",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300345",
+      "from": "W/H_air conditioner_01",
+      "to": "W/H_air conditioner_01_4way(AM100BN4DBH1)",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300346",
+      "from": "W/H_air conditioner_02",
+      "to": "W/H_air conditioner_02_4way(AM100BN4DBH1)",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300347",
+      "from": "W/H_air conditioner_03",
+      "to": "W/H_air conditioner_03_4way(AM083BN4DBH1)",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300348",
+      "from": "Application Lab_air conditioner_01",
+      "to": "Application Lab_air conditioner_01_4way_TW0900A2SF",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300349",
+      "from": "Application Lab_air conditioner_02",
+      "to": "Application Lab_air conditioner_02_4way_TW0900A2SF",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300350",
+      "from": "TV-LG standbyme2_MKT",
+      "to": "TV-LG 스탠바이미2_MKT",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300351",
+      "from": "Main Office Landscaping_01",
+      "to": "Main Office_Motion Desk_04",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300352",
+      "from": "Main Office Landscaping_02",
+      "to": "Main Office_Motion Desk_05",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300353",
+      "from": "Main Office Landscaping_03",
+      "to": "Main Office_Motion Desk_06",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "cc",
+      "asset": "300354",
+      "name": "Main Office_Desk_1600x800_09",
+      "from": "70705000",
+      "to": "70704610",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300354",
+      "from": "Main Office Landscaping_04",
+      "to": "Main Office_Desk_1600x800_09",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "cc",
+      "asset": "300355",
+      "name": "Main Office_Desk_1600x800_10",
+      "from": "70705000",
+      "to": "70704610",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "300355",
+      "from": "Main Office Landscaping_05",
+      "to": "Main Office_Desk_1600x800_10",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "500010",
+      "from": "Logi-Car",
+      "to": "Starex_Logistics",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "monthly",
+      "asset": "500010",
+      "name": "Starex_Logistics",
+      "from": 143545,
+      "to": 134168,
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600154",
+      "from": "Macbook Pro 16-inch_MKT",
+      "to": "Macbook Pro 16-inch_MKT Wed designer",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600155",
+      "from": "Laptop_kimmikyung",
+      "to": "Laptop_김미경",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600156",
+      "from": "Laptop_kwonjongeun",
+      "to": "Laptop_권정은",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600157",
+      "from": "Laptop_jeonhyoeun",
+      "to": "Laptop_전효은",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600158",
+      "from": "Laptop_yangjeongmin",
+      "to": "Laptop_양정민",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600159",
+      "from": "Laptop_leehyunju",
+      "to": "Laptop_이현주",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600160",
+      "from": "Laptop_kwonsuhyun",
+      "to": "Laptop_권수현",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600161",
+      "from": "Surface Pro_kimjunga",
+      "to": "Surface Pro_김정아(정부)",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600163",
+      "from": "Laptop_Apps_leejunyong",
+      "to": "Laptop_Apps 이준용",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600164",
+      "from": "Laptop_kimjunga2",
+      "to": "Laptop_김정아",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600165",
+      "from": "Laptop_parksonyung",
+      "to": "Laptop_박선영",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600167",
+      "from": "Laptop_pyunkyunghyun",
+      "to": "Laptop_편경현",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600170",
+      "from": "Laptop_kimhyungjun",
+      "to": "Laptop_김형준",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600171",
+      "from": "Laptop_yunjunsung",
+      "to": "Laptop_윤준성",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600172",
+      "from": "Laptop_songjieun",
+      "to": "Laptop_송지은",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600173",
+      "from": "Laptop_leesuyun",
+      "to": "Laptop_이수연",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600174",
+      "from": "Laptop_kwonjongeun2024",
+      "to": "Laptop_권정은",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600175",
+      "from": "Laptop_jeonguiyong",
+      "to": "Laptop_정의용",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600176",
+      "from": "Server-Cisco Catalyst 9300_01",
+      "to": "Server-Cisco Catalyst 9300 Switch",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600177",
+      "from": "Server-Cisco Catalyst 9300_02",
+      "to": "Server-Cisco Catalyst 9300 Switch",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600178",
+      "from": "Server-Cisco Catalyst 9300_03",
+      "to": "Server-Cisco Catalyst 9300 Switch",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600180",
+      "from": "Server-Tripp Lite Console Server",
+      "to": "Server-Tripp Lite B093-008-2E4Y Console Server",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600181",
+      "from": "Laptop_kimsongeun",
+      "to": "Laptop_김성은",
+      "date": "2026-03-12"
+    },
+    {
+      "type": "name",
+      "asset": "600182",
+      "from": "Laptop_gongchangsuk",
+      "to": "Laptop_공창석",
+      "date": "2026-03-12"
+    }
+  ]
+}
