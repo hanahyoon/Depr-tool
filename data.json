@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12",
+  "lastUpdated": "2026-04-06",
   "simData": [
     {
       "asset": "100011",
@@ -625,176 +625,130 @@
   ],
   "changelog": [
     {
-      "type": "new",
-      "asset": "600183",
-      "name": "Laptop_이슬기",
-      "acct": "160070",
-      "cc": "70704610",
-      "capDate": "2026-03-10",
-      "monthly": 49708,
-      "date": "2026-03-12"
-    },
-    {
-      "type": "new",
-      "asset": "600184",
-      "name": "Laptop_정영돈",
-      "acct": "160070",
-      "cc": "70701610",
-      "capDate": "2026-03-10",
-      "monthly": 49708,
-      "date": "2026-03-12"
-    },
-    {
-      "type": "new",
-      "asset": "600185",
-      "name": "Laptop_Spare",
-      "acct": "160070",
-      "cc": "70705000",
-      "capDate": "2026-03-10",
-      "monthly": 49708,
-      "date": "2026-03-12"
-    },
-    {
       "type": "name",
       "asset": "200122",
       "from": "Application_Webex room kit",
       "to": "Application_Webex room kit_Codec,Camera,Control",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "200128",
       "from": "MG1000 MyGlo Reagent Reader",
       "to": "MG1000 MyGlo™ Reagent Reader",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "200129",
       "from": "GM4000 GloMax Galaxy",
       "to": "GM4000 GloMax® Galaxy Bioluminescence Imager Syste",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "200130",
       "from": "GM4010 Stagetop Incubator",
       "to": "GM4010 Stagetop Incubator and Controller, GloMax®",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "200131",
       "from": "AS8000 Maxwell CSC 48 Instrument",
       "to": "AS8000 Maxwell® CSC 48 Instrument",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "200132",
       "from": "GM9000 QC Test Plate",
       "to": "GM9000 QC Test Plate for GloMax Instruments",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300345",
       "from": "W/H_air conditioner_01",
       "to": "W/H_air conditioner_01_4way(AM100BN4DBH1)",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300346",
       "from": "W/H_air conditioner_02",
       "to": "W/H_air conditioner_02_4way(AM100BN4DBH1)",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300347",
       "from": "W/H_air conditioner_03",
       "to": "W/H_air conditioner_03_4way(AM083BN4DBH1)",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300348",
       "from": "Application Lab_air conditioner_01",
       "to": "Application Lab_air conditioner_01_4way_TW0900A2SF",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300349",
       "from": "Application Lab_air conditioner_02",
       "to": "Application Lab_air conditioner_02_4way_TW0900A2SF",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300350",
       "from": "TV-LG standbyme2_MKT",
       "to": "TV-LG 스탠바이미2_MKT",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300351",
       "from": "Main Office Landscaping_01",
       "to": "Main Office_Motion Desk_04",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300352",
       "from": "Main Office Landscaping_02",
       "to": "Main Office_Motion Desk_05",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300353",
       "from": "Main Office Landscaping_03",
       "to": "Main Office_Motion Desk_06",
-      "date": "2026-03-12"
-    },
-    {
-      "type": "cc",
-      "asset": "300354",
-      "name": "Main Office_Desk_1600x800_09",
-      "from": "70705000",
-      "to": "70704610",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300354",
       "from": "Main Office Landscaping_04",
       "to": "Main Office_Desk_1600x800_09",
-      "date": "2026-03-12"
-    },
-    {
-      "type": "cc",
-      "asset": "300355",
-      "name": "Main Office_Desk_1600x800_10",
-      "from": "70705000",
-      "to": "70704610",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "300355",
       "from": "Main Office Landscaping_05",
       "to": "Main Office_Desk_1600x800_10",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "500010",
       "from": "Logi-Car",
       "to": "Starex_Logistics",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "monthly",
@@ -802,175 +756,175 @@
       "name": "Starex_Logistics",
       "from": 143545,
       "to": 134168,
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600154",
       "from": "Macbook Pro 16-inch_MKT",
       "to": "Macbook Pro 16-inch_MKT Wed designer",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600155",
       "from": "Laptop_kimmikyung",
       "to": "Laptop_김미경",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600156",
       "from": "Laptop_kwonjongeun",
       "to": "Laptop_권정은",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600157",
       "from": "Laptop_jeonhyoeun",
       "to": "Laptop_전효은",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600158",
       "from": "Laptop_yangjeongmin",
       "to": "Laptop_양정민",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600159",
       "from": "Laptop_leehyunju",
       "to": "Laptop_이현주",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600160",
       "from": "Laptop_kwonsuhyun",
       "to": "Laptop_권수현",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600161",
       "from": "Surface Pro_kimjunga",
       "to": "Surface Pro_김정아(정부)",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600163",
       "from": "Laptop_Apps_leejunyong",
       "to": "Laptop_Apps 이준용",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600164",
       "from": "Laptop_kimjunga2",
       "to": "Laptop_김정아",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600165",
       "from": "Laptop_parksonyung",
       "to": "Laptop_박선영",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600167",
       "from": "Laptop_pyunkyunghyun",
       "to": "Laptop_편경현",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600170",
       "from": "Laptop_kimhyungjun",
       "to": "Laptop_김형준",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600171",
       "from": "Laptop_yunjunsung",
       "to": "Laptop_윤준성",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600172",
       "from": "Laptop_songjieun",
       "to": "Laptop_송지은",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600173",
       "from": "Laptop_leesuyun",
       "to": "Laptop_이수연",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600174",
       "from": "Laptop_kwonjongeun2024",
       "to": "Laptop_권정은",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600175",
       "from": "Laptop_jeonguiyong",
       "to": "Laptop_정의용",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600176",
       "from": "Server-Cisco Catalyst 9300_01",
       "to": "Server-Cisco Catalyst 9300 Switch",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600177",
       "from": "Server-Cisco Catalyst 9300_02",
       "to": "Server-Cisco Catalyst 9300 Switch",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600178",
       "from": "Server-Cisco Catalyst 9300_03",
       "to": "Server-Cisco Catalyst 9300 Switch",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600180",
       "from": "Server-Tripp Lite Console Server",
       "to": "Server-Tripp Lite B093-008-2E4Y Console Server",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600181",
       "from": "Laptop_kimsongeun",
       "to": "Laptop_김성은",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     },
     {
       "type": "name",
       "asset": "600182",
       "from": "Laptop_gongchangsuk",
       "to": "Laptop_공창석",
-      "date": "2026-03-12"
+      "date": "2026-04-06"
     }
   ]
 }
